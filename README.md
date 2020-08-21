@@ -7,7 +7,7 @@
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.qikwall" alt="Visitors">                     
 </p>
 
-<div>
+</div>
 
 ## Requirements:
 1. pyqt5 (pip3 install pyqt5)
