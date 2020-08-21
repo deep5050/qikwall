@@ -13,7 +13,7 @@
 Download the latest Release [qikwall](https://github.com/deep5050/qikwall/releases/)
 
 ## Requirements:
-.pywal (sudo pip3 install pywal)
+pywal (`sudo pip3 install pywal`)
 
 ## License
 Licensed under GPL v3
